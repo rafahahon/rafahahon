@@ -7,9 +7,9 @@
     💻 Desenvolvimento de sistemas
     📖 Python • Java • C++
     💟 Musica • Games • Anime • Code
-    ♏🍫📖
+    ♏🍫📖🐱
 </pre>
 <br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)]((https://www.linkedin.com/in/rafaella-hahon-114b35260/))
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/rafaella-hahon-114b35260/)
 </div>
