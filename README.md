@@ -6,8 +6,6 @@
     🏫 Senai "Paulo Antonio Skaf"
     💻 Desenvolvimento de sistemas
     📖 Python • Java • C
-    💟 Musica • Games • Anime • Code
-    ♏🍫📖🐱
 </pre>
 <br><br>
     
