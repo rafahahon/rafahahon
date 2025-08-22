@@ -1,6 +1,7 @@
 <div align="center">
-<img src="" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4d0c08&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Oi+oi;Eu+sou+a+Rafaella+%E2%9C%A9" width="70%" />
+<img src="https://i.pinimg.com/originals/5e/dc/fa/5edcfa6036787d38ca2684988ed5088d.png" width="25%" align="right" />
+<img src="https://w7.pngwing.com/pngs/470/126/png-transparent-lucy-heartfilia-natsu-dragneel-fairy-tail-manga-anime-fairy-tail-hand-manga-monochrome.png" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?
 <br><br>
 <pre>
     🏫 Senai "Paulo Antonio Skaf"
