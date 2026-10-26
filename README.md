@@ -4,7 +4,7 @@
 <pre>
     🏫 Senai "Paulo Antonio Skaf" - 👩🏼‍🎓 Desenvolvimento de sistemas
     🏫 Universidade Nove de Julho - 👩🏼‍🎓 Sistemas de Informação
-    👩🏼‍💻 Python • Java • C • SQL
+    👩🏼‍💻 Python • Java • .Net • SQL • C# • Html & CSS
 </pre>
 <br><br>
     
